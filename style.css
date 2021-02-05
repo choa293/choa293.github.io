@@ -1,7 +1,29 @@
-html {
-	background: pink;
+body {
+	background: #9CAF88;
+	color: white;
+	font-family: Gill Sans;
+	font-size:20px;
+	
 }
 
-html {
-	color: blue;
+h1 {
+	font-size: 50px;
+	padding-top: 160px;
 }
+
+a:hover {
+
+	color:black;
+}
+
+ul {
+
+	list-style-type:square;
+	list-style-position:inside;
+}
+
+.wavy {
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+  text-decoration-color: white;
+
