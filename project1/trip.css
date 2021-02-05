@@ -1,0 +1,15 @@
+a {
+
+	color:blue;
+	background-color: white;
+	position:center;
+
+}
+ 
+body{
+
+	background-image: url("palos-verdes-peninsula-3.jpg");
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
+
+}
